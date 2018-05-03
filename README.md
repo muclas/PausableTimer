@@ -1,2 +1,0 @@
-# PausableTimer
-Created with CodeSandbox
